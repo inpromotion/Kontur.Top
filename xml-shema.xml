@@ -1,0 +1,200 @@
+<SHOP>
+    <SHOPITEM>
+        <PRODUCT_ID>1</PRODUCT_ID>
+        <NAME>Product name example 1</NAME>
+        <DESCRIPTION>
+        Lorem ipsum dolor sit amet consectetuer nonummy Morbi vitae nunc dolor. Vel tellus tincidunt lorem Vestibulum Nulla id Duis In. Augue hac consequat. Semper leo         Nam eu consectetuer elit quis tincidunt adipiscing wisi semper. Aenean wisi velit Curabitur. Eu Curabitur dolor dictum Curabitur elit magnis tellus justo       tellus diam. Amet at elit.
+        </DESCRIPTION>
+        <META_DESCRIPTION>
+        Lorem ipsum dolor sit amet consectetuer nonummy Morbi vitae nunc dolor.
+        </META_DESCRIPTION>
+        <META_KEYWORD>
+        Lorem, ipsum, dolor, sit, amet, consectetuer, nonummy
+        </META_KEYWORD>
+        <TAG>
+        Arraytag-example-1, tag-example-2, tag-example-3, tag-example-4, tag-example-5, tag-example-6
+        </TAG>
+        <MODEL>Model-Example1</MODEL>
+        <SKU>Sku-Example1</SKU>
+        <UPC>Upc-Example1</UPC>
+        <EAN>Ean-Example1</EAN>
+        <JAN>Jan-Example1</JAN>
+        <ISBN>Isbn-Example1</ISBN>
+        <MPN>Mpn-Example1</MPN>
+        <QUANTITY>991</QUANTITY>
+        <IMAGE_1>
+        http://demo.deawid.com/2.x/xml-import-pro/image/image-example-1.jpg
+        </IMAGE_1>
+        <IMAGE_2>
+        http://demo.deawid.com/2.x/xml-import-pro/image/image-example-2.jpg
+        </IMAGE_2>
+        <IMAGE_3>
+        http://demo.deawid.com/2.x/xml-import-pro/image/image-example-3.jpg
+        </IMAGE_3>
+        <IMAGE_4>
+        http://demo.deawid.com/2.x/xml-import-pro/image/image-example-4.jpg
+        </IMAGE_4>
+        <CATEGORY>
+        Category Example 1 | Category Example 2 | Category Example 3
+        </CATEGORY>
+        <MANUFACTURER>Manufacturer name example 1</MANUFACTURER>
+        <PRICE>2359</PRICE>
+        <WEIGHT>32</WEIGHT>
+        <LENGTH>6</LENGTH>
+        <WIDTH>22</WIDTH>
+        <HEIGHT>28</HEIGHT>
+        <MINIMUM>1</MINIMUM>
+        <OPTIONS>
+            <OPTION>
+                <NAME>Option name example 1</NAME>
+                <VALUE>Option value example 1</VALUE>
+                <QUANTITY>545</QUANTITY>
+                <PRICE>137</PRICE>
+                </OPTION>
+                <OPTION>
+                <NAME>Option name example 2</NAME>
+                <VALUE>Option value example 2</VALUE>
+                <QUANTITY>893</QUANTITY>
+                <PRICE>362</PRICE>
+                </OPTION>
+                <OPTION>
+                <NAME>Option name example 3</NAME>
+                <VALUE>Option value example 3</VALUE>
+                <QUANTITY>207</QUANTITY>
+                <PRICE>113</PRICE>
+                </OPTION>
+                <OPTION>
+                <NAME>Option name example 4</NAME>
+                <VALUE>Option value example 4</VALUE>
+                <QUANTITY>931</QUANTITY>
+                <PRICE>546</PRICE>
+            </OPTION>
+        </OPTIONS>
+        <ATTRIBUTES>
+            <ATTRIBUTE>
+                <GROUP>Attribute group example 1</GROUP>
+                <NAME>Attribute name example 1</NAME>
+                <VALUE>Attribute value example 1</VALUE>
+                </ATTRIBUTE>
+                <ATTRIBUTE>
+                <GROUP>Attribute group example 2</GROUP>
+                <NAME>Attribute name example 2</NAME>
+                <VALUE>Attribute value example 2</VALUE>
+                </ATTRIBUTE>
+                <ATTRIBUTE>
+                <GROUP>Attribute group example 3</GROUP>
+                <NAME>Attribute name example 3</NAME>
+                <VALUE>Attribute value example 3</VALUE>
+                </ATTRIBUTE>
+                <ATTRIBUTE>
+                <GROUP>Attribute group example 4</GROUP>
+                <NAME>Attribute name example 4</NAME>
+                <VALUE>Attribute value example 4</VALUE>
+                </ATTRIBUTE>
+                <ATTRIBUTE>
+                <GROUP>Attribute group example 5</GROUP>
+                <NAME>Attribute name example 5</NAME>
+                <VALUE>Attribute value example 5</VALUE>
+            </ATTRIBUTE>
+        </ATTRIBUTES>
+    </SHOPITEM>
+    SHOPITEM>
+        <PRODUCT_ID>1</PRODUCT_ID>
+        <NAME>Product name example 1</NAME>
+        <DESCRIPTION>
+        Lorem ipsum dolor sit amet consectetuer nonummy Morbi vitae nunc dolor. Vel tellus tincidunt lorem Vestibulum Nulla id Duis In. Augue hac consequat. Semper leo         Nam eu consectetuer elit quis tincidunt adipiscing wisi semper. Aenean wisi velit Curabitur. Eu Curabitur dolor dictum Curabitur elit magnis tellus justo       tellus diam. Amet at elit.
+        </DESCRIPTION>
+        <META_DESCRIPTION>
+        Lorem ipsum dolor sit amet consectetuer nonummy Morbi vitae nunc dolor.
+        </META_DESCRIPTION>
+        <META_KEYWORD>
+        Lorem, ipsum, dolor, sit, amet, consectetuer, nonummy
+        </META_KEYWORD>
+        <TAG>
+        Arraytag-example-1, tag-example-2, tag-example-3, tag-example-4, tag-example-5, tag-example-6
+        </TAG>
+        <MODEL>Model-Example1</MODEL>
+        <SKU>Sku-Example1</SKU>
+        <UPC>Upc-Example1</UPC>
+        <EAN>Ean-Example1</EAN>
+        <JAN>Jan-Example1</JAN>
+        <ISBN>Isbn-Example1</ISBN>
+        <MPN>Mpn-Example1</MPN>
+        <QUANTITY>991</QUANTITY>
+        <IMAGE_1>
+        http://demo.deawid.com/2.x/xml-import-pro/image/image-example-1.jpg
+        </IMAGE_1>
+        <IMAGE_2>
+        http://demo.deawid.com/2.x/xml-import-pro/image/image-example-2.jpg
+        </IMAGE_2>
+        <IMAGE_3>
+        http://demo.deawid.com/2.x/xml-import-pro/image/image-example-3.jpg
+        </IMAGE_3>
+        <IMAGE_4>
+        http://demo.deawid.com/2.x/xml-import-pro/image/image-example-4.jpg
+        </IMAGE_4>
+        <CATEGORY>
+        Category Example 1 | Category Example 2 | Category Example 3
+        </CATEGORY>
+        <MANUFACTURER>Manufacturer name example 1</MANUFACTURER>
+        <PRICE>2359</PRICE>
+        <WEIGHT>32</WEIGHT>
+        <LENGTH>6</LENGTH>
+        <WIDTH>22</WIDTH>
+        <HEIGHT>28</HEIGHT>
+        <MINIMUM>1</MINIMUM>
+        <OPTIONS>
+            <OPTION>
+                <NAME>Option name example 1</NAME>
+                <VALUE>Option value example 1</VALUE>
+                <QUANTITY>545</QUANTITY>
+                <PRICE>137</PRICE>
+                </OPTION>
+                <OPTION>
+                <NAME>Option name example 2</NAME>
+                <VALUE>Option value example 2</VALUE>
+                <QUANTITY>893</QUANTITY>
+                <PRICE>362</PRICE>
+                </OPTION>
+                <OPTION>
+                <NAME>Option name example 3</NAME>
+                <VALUE>Option value example 3</VALUE>
+                <QUANTITY>207</QUANTITY>
+                <PRICE>113</PRICE>
+                </OPTION>
+                <OPTION>
+                <NAME>Option name example 4</NAME>
+                <VALUE>Option value example 4</VALUE>
+                <QUANTITY>931</QUANTITY>
+                <PRICE>546</PRICE>
+            </OPTION>
+        </OPTIONS>
+        <ATTRIBUTES>
+            <ATTRIBUTE>
+                <GROUP>Attribute group example 1</GROUP>
+                <NAME>Attribute name example 1</NAME>
+                <VALUE>Attribute value example 1</VALUE>
+                </ATTRIBUTE>
+                <ATTRIBUTE>
+                <GROUP>Attribute group example 2</GROUP>
+                <NAME>Attribute name example 2</NAME>
+                <VALUE>Attribute value example 2</VALUE>
+                </ATTRIBUTE>
+                <ATTRIBUTE>
+                <GROUP>Attribute group example 3</GROUP>
+                <NAME>Attribute name example 3</NAME>
+                <VALUE>Attribute value example 3</VALUE>
+                </ATTRIBUTE>
+                <ATTRIBUTE>
+                <GROUP>Attribute group example 4</GROUP>
+                <NAME>Attribute name example 4</NAME>
+                <VALUE>Attribute value example 4</VALUE>
+                </ATTRIBUTE>
+                <ATTRIBUTE>
+                <GROUP>Attribute group example 5</GROUP>
+                <NAME>Attribute name example 5</NAME>
+                <VALUE>Attribute value example 5</VALUE>
+            </ATTRIBUTE>
+        </ATTRIBUTES>
+    </SHOPITEM>
+</SHOP>
